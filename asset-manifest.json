@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/me_2023-0914-ecommerce-sass-redux_react-build/static/css/main.b440d05c.css",
-    "main.js": "/me_2023-0914-ecommerce-sass-redux_react-build/static/js/main.9203da20.js",
+    "main.css": "/me_2023-0914-ecommerce-sass-redux_react-build/static/css/main.6e758c1f.css",
+    "main.js": "/me_2023-0914-ecommerce-sass-redux_react-build/static/js/main.b8b15a6a.js",
     "index.html": "/me_2023-0914-ecommerce-sass-redux_react-build/index.html",
-    "main.b440d05c.css.map": "/me_2023-0914-ecommerce-sass-redux_react-build/static/css/main.b440d05c.css.map",
-    "main.9203da20.js.map": "/me_2023-0914-ecommerce-sass-redux_react-build/static/js/main.9203da20.js.map"
+    "main.6e758c1f.css.map": "/me_2023-0914-ecommerce-sass-redux_react-build/static/css/main.6e758c1f.css.map",
+    "main.b8b15a6a.js.map": "/me_2023-0914-ecommerce-sass-redux_react-build/static/js/main.b8b15a6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.b440d05c.css",
-    "static/js/main.9203da20.js"
+    "static/css/main.6e758c1f.css",
+    "static/js/main.b8b15a6a.js"
   ]
 }
